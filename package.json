@@ -1,0 +1,28 @@
+{
+  "name": "cros-image",
+  "version": "1.0.0",
+  "description": "Cros Image",
+  "keywords": [
+    "Cros",
+    "Image"
+  ],
+  "homepage": "https://github.com/app-xcode/cros-image#readme",
+  "bugs": {
+    "url": "https://github.com/app-xcode/cros-image/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/app-xcode/cros-image.git"
+  },
+  "license": "ISC",
+  "author": "x.code",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.15.0",
+    "express": "^5.2.1"
+  }
+}
