@@ -7,7 +7,7 @@ app.get('/', async (req, res) => {
   const url = req.query.quest;
 
   if (!url) {
-    return res.status(400).send('URL is required');
+    return res.status(400).send('URL is required, Sample: https://cros-image.vercel.app/?quest=https://example.com/images/image.jpg');
   }
 
   try {

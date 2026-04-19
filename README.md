@@ -10,7 +10,7 @@ Project ini adalah **proxy server sederhana** yang dibuat menggunakan Node.js
 ---
 
 ## ⚙️ Cara Menjalankan
-    http://localhost:3000/?quest=https://example.com
+    https://cros-image.vercel.app/?quest=https://example.com/images/image.jpg
 ### 1. Clone repository
 ```bash
 git clone https://github.com/app-xcode/cros-image.git
